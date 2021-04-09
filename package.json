@@ -2,18 +2,22 @@
   "name": "martinezs.dev",
   "version": "0.0.1",
   "description": "My personal website",
+  "scripts": {
+    "build": "vuepress build src",
+    "deploy": "vue-cli-service s3-deploy",
+    "dev": "vuepress dev src"
+  },
   "main": "index.js",
+  "dependencies": {
+    "vue-cli-plugin-s3-deploy": "^4.0.0-rc4"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
   "authors": {
     "name": "Ariel Martínez",
     "email": "ariel@martinezs.dev"
   },
-  "repository": "ariel-m-s/martinezs.dev",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
-  },
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  }
+  "repository": "ariel-m-s/martinezs.dev"
 }
