@@ -1,0 +1,19 @@
+{
+  "name": "martinezs.dev",
+  "version": "0.0.1",
+  "description": "My personal website",
+  "main": "index.js",
+  "authors": {
+    "name": "Ariel Martínez",
+    "email": "ariel@martinezs.dev"
+  },
+  "repository": "ariel-m-s/martinezs.dev",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
