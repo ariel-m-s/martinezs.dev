@@ -4,13 +4,9 @@
   "description": "My personal website",
   "scripts": {
     "build": "vuepress build src",
-    "deploy": "vue-cli-service s3-deploy",
     "dev": "vuepress dev src"
   },
   "main": "index.js",
-  "dependencies": {
-    "vue-cli-plugin-s3-deploy": "^4.0.0-rc4"
-  },
   "devDependencies": {
     "vuepress": "^1.5.3"
   },
