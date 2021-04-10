@@ -15,7 +15,7 @@ socials:
 
 # cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Software Engineer
-email: ariel[at]martinezs[dot].dev
+email: ariel[at]martinezs[dot]dev
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
