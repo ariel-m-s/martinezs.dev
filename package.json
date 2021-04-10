@@ -2,18 +2,19 @@
   "name": "martinezs.dev",
   "version": "0.0.1",
   "description": "My personal website",
+  "author": "Ariel Martínez <ariel@martinezs.dev>",
+  "repository": "https://github.com/ariel-m-s/martinezs.dev.git",
   "scripts": {
-    "build": "vuepress build src",
-    "dev": "vuepress dev src"
-  },
-  "main": "index.js",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  },
-  "authors": {
-    "name": "Ariel Martínez",
-    "email": "ariel@martinezs.dev"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
-  "repository": "ariel-m-s/martinezs.dev"
+  "devDependencies": {
+    "vuepress": "^1.0.4"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-katex": "^2.0.3"
+  }
 }
