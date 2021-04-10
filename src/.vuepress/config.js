@@ -1,22 +1,15 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "Ariel Martínez",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
-  dest: "./dist",
+  dest: "dist",
 
   themeConfig: {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+    //   { text: "Projects", link: "/projects/" }
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
     lastUpdated: 'Last Updated'
   },
 
