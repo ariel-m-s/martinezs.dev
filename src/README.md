@@ -22,17 +22,52 @@ email: ariel[at]martinezs[dot]dev
 
 ## About Me
 
-Experienced software engineer with a demonstrated history of working in financial services and research. Strong information technology professional with a BS in Engineering focused in Computer Science.
+Experienced software engineer with strong professional IT background. Demonstrated history of working in financial services and research industries. Interested in biomedical engineering and machine learning.
 
-<!-- ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain -->
+## News
+
+- Feb 25, 2021 <br/>
+**Platanews** –  [Startups seleccionadas para Platanus Ventures 2021-1](https://plata.news/blog/startups-seleccionadas-platanus-ventures-2021-1) <br/>
+**El Mercurio** – [Platanus Ventures elige cinco startups como parte de su segunda generación](https://digital.elmercurio.com/2021/02/25/ME-I/KR3U3L1M) <br/>
+**Las3claves** – [Las cinco startups seleccionadas por Platanus Ventures en su nueva generación](https://www.las3claves.com/las3claves/falabella-promete-entregar-las-compras-online-en-48-horas)
+
+## Experience
+
+- **Co-Founder & CTO** | Oct 2020 - Present <br/>
+[Con Yappa](https://conyappa.cl), Santiago <br/>
+*Latin America’s first prize-linked savings account.*
+
+- **Software Engineer** | Mar 2020 - Mar 2021 <br/>
+Glik, Santiago <br/>
+*A platform for doctors to track the health of diabetic patients.*
+
+- **Software Engineer** (internship) | Jul 2020 - Sep 2021 <br/>
+[NotCo](https://notco.com), Santiago <br/>
+*A Foodtech that reinvents animal-based foods using only plants.*
+
+- **Teaching and Research Assistant** | Jun 2016 - Jul 2020 <br/>
+Pontificia Universidad Católica de Chile, Santiago
 
 ## Education
 
+- **Neural Networks and Deep Learning** | Mar 2021 <br/>
+Coursera Certification [[view credential](https://www.coursera.org/account/accomplishments/verify/U99YYVY72R2G)]
+
 - **BS in Engineering, CS Major** | Mar 2016 - Jul 2020 <br/>
-Pontifical Catholic University of Chile, Santiago <br/>
+Pontificia Universidad Católica de Chile, Santiago
+
+## Volunteering
+
+- **Head of Information Technology** | May 2020 - Present <br/>
+Conecta, Santiago <br/>
+*A free college preparation course for high school students.*
+
+- **Logistics Assistant** | Aug 2016 - Apr 2019 <br/>
+TEDx Conferences, Santiago
+
+- **First Responder** | May 2015 - Nov 2015 <br/>
+Magen David Adom, Jerusalem and Bat Yam
 
 <!-- Custom style for this page -->
 
