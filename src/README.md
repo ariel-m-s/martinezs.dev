@@ -42,7 +42,7 @@ Experienced software engineer with strong professional IT background. Demonstrat
 Glik, Santiago <br/>
 *A platform for doctors to track the health of diabetic patients.*
 
-- **Software Engineer** (internship) | Jul 2020 - Sep 2021 <br/>
+- **Software Engineer** (internship) | Jul 2020 - Sep 2020 <br/>
 [NotCo](https://notco.com), Santiago <br/>
 *A Foodtech that reinvents animal-based foods using only plants.*
 
