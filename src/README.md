@@ -22,7 +22,7 @@ email: ariel[at]martinezs[dot]dev
 
 ## About Me
 
-Experienced software engineer with strong professional IT background. Demonstrated history of working in financial services and research industries. Interested in biomedical engineering and machine learning.
+Experienced software engineer with strong professional IT background. Demonstrated history of working in financial services and research industries. Interested in machine learning.
 
 
 ## News
@@ -50,6 +50,9 @@ Glik, Santiago <br/>
 Pontificia Universidad Católica de Chile, Santiago
 
 ## Education
+
+- **MS in Biomedical Engineering, Bioimaging Major** | Sep 2021 - <br/>
+ETH, Zürich
 
 - **Neural Networks and Deep Learning** | Mar 2021 <br/>
 Coursera Certification [[view credential](https://www.coursera.org/account/accomplishments/verify/U99YYVY72R2G)]
